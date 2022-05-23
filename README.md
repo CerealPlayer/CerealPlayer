@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CerealPlayer
-- 👀 I’m interested in wev development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack development with Next JS
 - 📫 You can reach me at [@iamjmoa](https://twitter.com/iamjmoa)
 
