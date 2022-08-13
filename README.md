@@ -4,8 +4,6 @@ I am Juan Olivas, a spanish web developer. I am here to make the web better.
 
 I love creating applications with React, NextJS and Tailwind.
 
-Visit my [website](https://www.jmoa.dev) to learn a bit more about me.
-
 You can contact me on twitter at [@iamjmoa](https://twitter.com/iamjmoa)
 
 <div align="center">
